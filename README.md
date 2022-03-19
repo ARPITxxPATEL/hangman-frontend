@@ -1,1 +1,1 @@
-# hangman-frontend
+# Hangman
